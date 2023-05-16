@@ -1,2 +1,2 @@
-# LevvaNewbiesCoins
-Reposit√≥rio para API do desafio Levva Coins
+# Projeto Levva Coins
+Esse projeto È um teste.
